@@ -1,105 +1,21 @@
 {
-    "editor.cursorBlinking": "smooth",
-    "workbench.editor.highlightModifiedTabs": true,
-    "files.autoSaveDelay": 5000,
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "editor.suggestSelection": "first",
-    "editor.formatOnSave": true,
-    "workbench.iconTheme": "vscode-icons",
-    "window.zoomLevel": -1,
-    "editor.fontFamily": "'JetBrains Mono',  'Cascadia Code', Consolas, 'Courier New',  monospace",
-    "editor.fontLigatures": true,
-    "editor.formatOnPaste": true,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.cursorSmoothCaretAnimation": true,
-    "terminal.integrated.rightClickBehavior": "paste",
-    "files.autoSave": "afterDelay",
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-    "editor.minimap.enabled": true,
-    "diffEditor.ignoreTrimWhitespace": false,
-    "powermode.enabled": false,
-    "powermode.presets": "exploding-rift",
-    "prettier.bracketSpacing": true,
-    "prettier.singleQuote": true,
-    "prettier.tabWidth": 4,
-    "prettier.useTabs": false,
-    "prettier.insertPragma": false,
-    "prettier.printWidth": 120,
-    "prettier.quoteProps": "preserve",
-    "[javascript]": {
-        "editor.defaultFormatter": "HookyQR.beautify"
-    },
-    "[html]": {
-        "editor.defaultFormatter": "HookyQR.beautify"
-    },
-    "[css]": {
-        "editor.defaultFormatter": "HookyQR.beautify"
-    },
-    "[jsonc]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "telemetry.enableTelemetry": false,
-    "telemetry.enableCrashReporter": false,
-    "peacock.favoriteColors": [
-        {
-            "name": "Angular Red",
-            "value": "#b52e31"
-        },
-        {
-            "name": "Auth0 Orange",
-            "value": "#eb5424"
-        },
-        {
-            "name": "Azure Blue",
-            "value": "#007fff"
-        },
-        {
-            "name": "C# Purple",
-            "value": "#68217A"
-        },
-        {
-            "name": "Gatsby Purple",
-            "value": "#639"
-        },
-        {
-            "name": "Go Cyan",
-            "value": "#5dc9e2"
-        },
-        {
-            "name": "Java Blue-Gray",
-            "value": "#557c9b"
-        },
-        {
-            "name": "JavaScript Yellow",
-            "value": "#f9e64f"
-        },
-        {
-            "name": "Mandalorian Blue",
-            "value": "#1857a4"
-        },
-        {
-            "name": "Node Green",
-            "value": "#215732"
-        },
-        {
-            "name": "React Blue",
-            "value": "#00b3e6"
-        },
-        {
-            "name": "Something Different",
-            "value": "#832561"
-        },
-        {
-            "name": "Vue Green",
-            "value": "#42b883"
-        }
-    ],
-    "extensions.ignoreRecommendations": false,
-    "editor.renderWhitespace": "all",
-    "editor.fontSize": 12,
-    "workbench.colorTheme": "Darcula",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "editor.cursorBlinking": "smooth",
+  "workbench.editor.highlightModifiedTabs": true,
+  "files.autoSaveDelay": 5000,
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 0,
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.cursorSmoothCaretAnimation": true,
+  "terminal.integrated.rightClickBehavior": "paste",
+  "files.autoSave": "afterDelay",
+  "editor.minimap.enabled": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  "editor.renderWhitespace": "all"
 }
