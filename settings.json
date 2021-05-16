@@ -1,12 +1,10 @@
 {
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "workbench.colorTheme": "GitHub Dark Dimmed",
   "editor.cursorBlinking": "smooth",
   "workbench.editor.highlightModifiedTabs": true,
   "files.autoSaveDelay": 5000,
   "editor.formatOnSave": true,
-  "window.zoomLevel": 0,
   "editor.fontLigatures": true,
   "editor.formatOnPaste": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -17,5 +15,7 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "telemetry.enableTelemetry": false,
   "telemetry.enableCrashReporter": false,
-  "editor.renderWhitespace": "all"
+  "editor.renderWhitespace": "all",
+  "workbench.colorTheme": "GitHub Dark",
+  "window.zoomLevel": 1
 }
